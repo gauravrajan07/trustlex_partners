@@ -28,7 +28,7 @@ const People = () => {
           Our Team
         </h1>
         <p className="text-xl text-center text-gray-700 max-w-3xl mx-auto mb-16">
-          At Trustlex Partners, we are proud of the diverse expertise and dedication our team brings to the table. Each of our partners is committed to delivering practical, reliable, and result-driven legal solutions. 
+          At AdvTejasvigoel, we are proud of the diverse expertise and dedication our team brings to the table. Each of our partners is committed to delivering practical, reliable, and result-driven legal solutions. 
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-12 max-w-5xl mx-auto">

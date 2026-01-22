@@ -10,7 +10,7 @@ const About = () => {
         
         <div className="space-y-6 text-lg text-left text-gray-700">
           <p>
-            At Trustlex Partners, we believe good legal advice should be clear, practical, and built on trust.
+            At AdvTejasvigoel, we believe good legal advice should be clear, practical, and built on trust.
           </p>
           <p>
             Our goal is simple: to help you solve your legal issues with confidence and peace of mind. </p>
@@ -21,7 +21,7 @@ const About = () => {
             Our lawyers bring years of experience in areas such as litigation, property law, family disputes, corporate matters, taxation, and compliance.No matter how complex the challenge, we work hard to find practical solutions that protect your interests. 
           </p>
           <p>
-            At Trustlex Partners, we’re not just your lawyers—we’re your partners in navigating the law with clarity and care. 
+            At AdvTejasvigoel, we’re not just your lawyers—we’re your partners in navigating the law with clarity and care. 
           </p>
         </div>
       </div>

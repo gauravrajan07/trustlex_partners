@@ -22,7 +22,7 @@ const Expertise = () => {
           Our Areas of Practice
         </h1>
         <p className="text-xl text-center text-gray-700 max-w-3xl mx-auto mb-16">
-          At Trustlex Partners, we provide comprehensive legal solutions across a wide spectrum of practice areas. Our diverse expertise allows us to cater to the unique needs of individuals, businesses, and institutions, ensuring effective representation and practical outcomes. 
+          At AdvTejasvigoel, we provide comprehensive legal solutions across a wide spectrum of practice areas. Our diverse expertise allows us to cater to the unique needs of individuals, businesses, and institutions, ensuring effective representation and practical outcomes. 
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">

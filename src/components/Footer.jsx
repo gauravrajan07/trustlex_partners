@@ -13,10 +13,10 @@ const Footer = () => {
           <h3 className="text-2xl font-bold text-[#1a2340] mb-4">AdvTejasvigoel</h3>
           <p>Navigating the law with clarity and care.</p>
           <a 
-            href="mailto:trustlexpartners@gmail.com" 
+            href="mailto:advtejasvigoel@gmail.com" 
             className="block mt-4 hover:text-[#d4af37] break-words"
           >
-            trustlexpartners@gmail.com
+            advtejasvigoel@gmail.com
           </a>
         </div>
 

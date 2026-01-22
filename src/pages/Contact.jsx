@@ -3,13 +3,13 @@
 
 const Contact = () => {
   return (
-    <div className="bg-white py-20">
-      <div className="container mx-auto px-6 max-w-3xl text-center">
-        <h1 className="text-4xl font-bold text-gray-900 mb-8">
+    <div className="py-20 bg-white">
+      <div className="container max-w-3xl px-6 mx-auto text-center">
+        <h1 className="mb-8 text-4xl font-bold text-gray-900">
           Get in Touch
         </h1>
         
-        <div className="text-lg text-gray-700 space-y-6">
+        <div className="space-y-6 text-lg text-gray-700">
           <p>
             We're here to help you navigate your legal challenges with clarity and confidence. Whether you have a question, a business concern, or a personal matter, our team is ready to listen.
           </p>
@@ -17,10 +17,10 @@ const Contact = () => {
             Reach out to us anytime at:
           </p>
           <a
-            href="mailto:AdvTejasvigoel@gmail.com"
-            className="text-2xl font-semibold text-black hover:text-gray-700 transition-colors"
+            href="mailto:trustlexpartners@gmail.com"
+            className="text-2xl font-semibold text-black transition-colors hover:text-gray-700"
           >
-            AdvTejasvigoel@gmail.com
+            trustlexpartners@gmail.com
           </a>
           
           {/* Placeholder for a future contact form */}

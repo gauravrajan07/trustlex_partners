@@ -17,7 +17,7 @@ const Hero = () => {
               Modern Solutions.
             </h1>
             <p className="text-xl md:text-2xl text-[#1a2340] mb-8">
-               AdvTejasvigoel is a full-service law firm dedicated to
+              TrustLex Partners is a full-service law firm dedicated to
               providing strategic advice to navigate your most complex legal challenges.
             </p>
             <Link
@@ -33,7 +33,7 @@ const Hero = () => {
           {/* Added 'md:-mt-12' to shift the image up by 3rem (48px) on desktop */}
           <div className="flex justify-center w-full md:w-1/2 md:justify-end md:-mt-12">
             <img 
-              src="public/profile.jpg" 
+              src={`${import.meta.env.BASE_URL}profile.jpg`}  
               alt="Profile" 
               className="object-cover w-full max-w-xs shadow-2xl rounded-2xl"
             />
